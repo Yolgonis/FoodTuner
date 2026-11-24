@@ -1,0 +1,9 @@
+{
+  "name": "FoodTuner",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Client-side tuning of food duration, health, stamina, eitr, regen and mead effects, with an in-game panel (F7).",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
